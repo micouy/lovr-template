@@ -1,5 +1,7 @@
 # LÖVR Template
 
+See [LÖVR](https://lovr.org) for more information.
+
 Run with...
 
 ```bash
